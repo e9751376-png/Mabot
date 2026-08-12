@@ -6,7 +6,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ================= НАСТРОЙКИ =================
-TOKEN = "8916487420:AAEsIY1K7rwRKPm2" # Твой токен
+TOKEN = "8916487420:AAEsIY1K7rwRKPm2ge_lO7BQpsQ1aynol84" # Твой токен
 
 TARGET_CHATS = [
     "@pr4kpop",
